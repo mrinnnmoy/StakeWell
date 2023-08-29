@@ -7,6 +7,8 @@ export default function Navbar() {
     <Container maxW={"1800px"} py={6}>
       <Flex direction={"row"} justifyContent={"space-between"}>
         <Heading>StakeWell</Heading>
+
+        {/* Connect Button */}
         <ConnectWallet />
       </Flex>
     </Container>
