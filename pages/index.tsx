@@ -5,7 +5,7 @@ const Home: NextPage = () => {
 
   return (
     <Container>
-      <Heading>StakeWell</Heading>
+      <p>Welcome</p>
     </Container>
   );
 };
